@@ -65,7 +65,7 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,docker,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,react,nodejs,python,java,mysql,mongodb,git,github,docker,vscode&perline=8" />
   <br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
