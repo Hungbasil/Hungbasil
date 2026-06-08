@@ -122,8 +122,8 @@
     <a href="https://github.com/Hungbasil/Learning-Web">
       <img src="https://img.shields.io/badge/Learning%20Web-TypeScript-3178C6?style=for-the-badge&logo=github"/>
     </a>
-    <a href="https://github.com/Hungbasil/hung-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-TypeScript-3178C6?style=for-the-badge&logo=github"/>
+    <a href="https://hung-portfolio-one.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00D9FF?style=for-the-badge&logo=vercel"/>
     </a>
   </p>
 </div>
